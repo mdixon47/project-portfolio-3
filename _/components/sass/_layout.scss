@@ -1,4 +1,43 @@
 // Header ------
+.intro {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.intro-body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.brand-heading{
+  font-size: 40px;
+}
+
+.intro-text{
+  font-size: 18px;
+}
+
+.btn-circle{
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+  padding: 7px 16px;
+  border: 2px solid #fff;
+  border-radius: 35px;
+  font-size: 40px;
+  color: #fff;
+  background: 0 0;
+
+}
 
 
 
